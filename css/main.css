@@ -69,3 +69,46 @@
     color: #222222;
     font-family: "Poppins", sans-serif;
 }
+.paragraph{
+    color: #555555;
+    margin: 5px 0 30px 0;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.get-started{
+    text-decoration: none;
+    font-size: 13px;
+    font-family: "roboto",sans-serif;
+    font-weight: 530;
+    color: #fff;
+    background: #106eea;
+    display: inline-flex;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+}
+
+.button{
+    display: flex;
+}
+.icofont-play-alt-2{
+    color:#106eea ;
+    
+}
+
+.watch-video{
+    text-decoration: none;
+    font-size: 16px;
+    transition: 0.5s;
+    margin-right: 25px;
+    color: #222222;
+    font-weight: 600;
+    align-items: center;
+    font-family: "roboto",sans-serif;
+    
+}
+
