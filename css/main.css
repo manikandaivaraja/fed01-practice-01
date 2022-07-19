@@ -1,0 +1,71 @@
+.bizland-container{
+    width: 1140px;
+    margin: auto;
+}
+
+.bizland-flexbox{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    
+}
+.bizland-logo{
+    color: #222222;
+    font-size: 30px;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    font-family: "Poppins", sans-serif;
+}
+.dot{
+    color: #106eea;
+}
+
+
+.bizland-navigation ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+.bizland-navigation ul li {
+    margin-left: 25px;
+    
+    
+}
+    
+ .bizland-navigation ul li a{
+  text-decoration: none;
+  color: black;    
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 3px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #222222;
+  white-space: nowrap;
+  transition: 0.3s;
+  position: relative;
+}
+.bizland-fr-layout{
+    background-image: url(../images/hero-bg\ \(1\).jpg);
+    height: 468px;
+}
+
+.bizland-fr-container{
+    width: 1140px;
+    margin: auto;
+}
+.bizland-fr-head-parg{
+  padding-top: 161px;
+
+}
+.header{
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #222222;
+    font-family: "Poppins", sans-serif;
+}

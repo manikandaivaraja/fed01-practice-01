@@ -1,0 +1,62 @@
+body{
+    background-image: url(../images/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading-1{
+font-size: 35px;
+color:green;
+font-style: italic;
+}
+.heading-2{
+    font-size: 25px;
+    color: green;
+    font-style: oblique;
+}
+.heading-3{
+    font-size: 20px;
+    color: blue;
+}
+
+.heading-3-table{
+    border: solid 2px black ;
+
+
+}
+.heading-4{
+    font-size: 20px;
+    color: blue;
+}
+.heading-5{
+    font-size: 20px;
+    color: blue;
+}
+.heading-6{
+    font-size: 20px;
+    color: blue;
+}
+.heading-7{
+    font-size: 20px;
+    color: blue;
+}
+.heading-8{
+    font-size: 20px;
+    color: blue;
+}
+.heading-9{
+    font-size: 20px;
+    color: blue;
+} 
+
+.sign{
+padding-left: 1000px;
+
+}
+
+
+
+    
+
+
+
